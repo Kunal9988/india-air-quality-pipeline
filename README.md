@@ -28,7 +28,7 @@ The loader runs daily through Windows Task Scheduler (`run_pipeline.bat`).
 
 ## Dashboard
 
-![Dashboard overview](/dashboard/screenshots/overview.png)
+![Dashboard overview](weather-sql-pipeline/dashboard/screenshots/overview.png)
 
 ## Key findings
 
